@@ -1,5 +1,5 @@
 //DEEP NEURAL NETWORK TEMPLATE
-// This is a template for deep neural network in C#
+// This is a template for deep neural network in C#. This neural network has 5 layers.
 //INPUT - Set the input in the MyMethod section.
 //HIDDEN - The hidden nodes will adjust themself based on the weights
 //TARGET - Set target based on the correct and acutal target of the output nodes. Target starts from 0 for the 1st output entry.
